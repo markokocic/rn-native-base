@@ -1,4 +1,4 @@
-(defproject rn-native-base "0.1.0-SNAPSHOT"
+(defproject rn-native-base "0.1.1"
   :description "native-base wrapper for Clojurescript"
   :url "http://github.com/markokocic/rn-native-base"
   :license {:name "MIT"}
